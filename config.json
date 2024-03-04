@@ -1,0 +1,9 @@
+{
+    "Discord": {
+      "Token": "ENTER_YOUR_DISCORD_BOT_TOKEN"
+    },
+    "MongoDB": {
+      "ConnectionString": "",
+      "Database": ""
+    }
+  }
